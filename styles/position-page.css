@@ -39,7 +39,7 @@ nav a:hover {
 
 body {
 	background: url('../images/outerspace_landscape.jpeg') no-repeat;
-	width: cover;
+	background-size: cover;
 }
 
 main {
