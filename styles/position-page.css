@@ -40,6 +40,7 @@ nav a:hover {
 body {
 	background: url(/Users/BennyXu/Desktop/Project/css_layout_exercises_starter_files/images/outerspace_landscape.jpeg) no-repeat;
 	background-size: cover;
+	width: cover;
 }
 
 main {
